@@ -1,2 +1,3 @@
 ﻿Hello, I am learning Git and GitHub!
 contact: Hi this is Ruqayya's second account. My contact git handle is kar_fn, and my email to best contact me on is ruqayya_naqvi@hotmail.com
+I am fruit.
